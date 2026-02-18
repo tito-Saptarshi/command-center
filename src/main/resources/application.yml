@@ -1,0 +1,10 @@
+gcp:
+  credentials:
+    path: D:/secure/cred.json
+
+gke:
+  endpoint: 34.78.123.456
+
+spring:
+  application:
+    name=command-center:
